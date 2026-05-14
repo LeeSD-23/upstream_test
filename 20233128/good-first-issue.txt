@@ -1,2 +1,2 @@
-https://github.com/TerraFirmaCraft/TerraFirmaCraft
+https://github.com/TerraFirmaCraft/TerraFirmaCraft/issues/3571
 
